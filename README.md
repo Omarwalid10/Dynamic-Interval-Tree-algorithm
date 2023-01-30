@@ -1,6 +1,6 @@
 ## The Dynamic Interval Tree
 * Write a C++ code that does the following:
-* You are not allowed to use any built-in functions except: <cstdlib>, <cstdio>, <cstring>, <iostream>.
+* You are not allowed to use any built-in functions except: cstdlib, cstdio, cstring, iostream.
 * You are not allowed to use string class, vector, or anything from STL libraries.
 * Implement a dynamic interval tree data structure as described in our lecture. An interval is two integers.
 * For simplicity, the underlying binary search tree structure must be your implementation of an unbalanced binary search tree.
